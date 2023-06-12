@@ -1,4 +1,4 @@
-# Pranjal_DSA_LabDSA
+Java project - 3 to implement concept of DSA
 
 This repo consist of two problem statements:
 1. Balancing Bracket problem.
